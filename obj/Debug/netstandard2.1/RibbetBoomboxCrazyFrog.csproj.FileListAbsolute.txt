@@ -1,0 +1,14 @@
+C:\Users\Henry Field\Documents\dev\VS\RibbetBoomboxCrazyFrog\bin\Debug\netstandard2.1\RibbetBoomboxCrazyFrog.deps.json
+C:\Users\Henry Field\Documents\dev\VS\RibbetBoomboxCrazyFrog\bin\Debug\netstandard2.1\RibbetBoomboxCrazyFrog.dll
+C:\Users\Henry Field\Documents\dev\VS\RibbetBoomboxCrazyFrog\bin\Debug\netstandard2.1\RibbetBoomboxCrazyFrog.pdb
+C:\Users\Henry Field\Documents\dev\VS\RibbetBoomboxCrazyFrog\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Henry Field\Documents\dev\VS\RibbetBoomboxCrazyFrog\bin\Debug\netstandard2.1\LC_SoundTool.dll
+C:\Users\Henry Field\Documents\dev\VS\RibbetBoomboxCrazyFrog\obj\Debug\netstandard2.1\RibbetBoomboxCrazyFrog.csproj.AssemblyReference.cache
+C:\Users\Henry Field\Documents\dev\VS\RibbetBoomboxCrazyFrog\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\Henry Field\Documents\dev\VS\RibbetBoomboxCrazyFrog\obj\Debug\netstandard2.1\RibbetBoomboxCrazyFrog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henry Field\Documents\dev\VS\RibbetBoomboxCrazyFrog\obj\Debug\netstandard2.1\RibbetBoomboxCrazyFrog.AssemblyInfoInputs.cache
+C:\Users\Henry Field\Documents\dev\VS\RibbetBoomboxCrazyFrog\obj\Debug\netstandard2.1\RibbetBoomboxCrazyFrog.AssemblyInfo.cs
+C:\Users\Henry Field\Documents\dev\VS\RibbetBoomboxCrazyFrog\obj\Debug\netstandard2.1\RibbetBoomboxCrazyFrog.csproj.CoreCompileInputs.cache
+C:\Users\Henry Field\Documents\dev\VS\RibbetBoomboxCrazyFrog\obj\Debug\netstandard2.1\RibbetBo.871A708B.Up2Date
+C:\Users\Henry Field\Documents\dev\VS\RibbetBoomboxCrazyFrog\obj\Debug\netstandard2.1\RibbetBoomboxCrazyFrog.dll
+C:\Users\Henry Field\Documents\dev\VS\RibbetBoomboxCrazyFrog\obj\Debug\netstandard2.1\RibbetBoomboxCrazyFrog.pdb
