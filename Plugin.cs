@@ -15,8 +15,8 @@ namespace RibbetBoomboxCrazyFrog
             AudioClip crazyFrogFull;
 
 
-            crazyFrogLoop = SoundTool.GetAudioClip("Meowpixel-CrazyFrogBoombox", "crazyFrogLoop.mp3");
-            crazyFrogFull = SoundTool.GetAudioClip("Meowpixel-CrazyFrogBoombox", "crazyFrogFull.mp3");
+            crazyFrogLoop = SoundTool.GetAudioClip("Meowpixel-CrazyFrogBoomBox", "crazyFrogLoop.mp3");
+            crazyFrogFull = SoundTool.GetAudioClip("Meowpixel-CrazyFrogBoomBox", "crazyFrogFull.mp3");
 
 
             //using a for loop to do this breaks it for some reason
